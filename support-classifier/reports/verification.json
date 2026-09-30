@@ -1,0 +1,7 @@
+{
+  "automated_tests_passed": 18,
+  "python_version": "3.12",
+  "docker_build_tested": false,
+  "production_data_evaluated": false,
+  "notes": "Synthetic-data metrics verify pipeline execution only. Docker is unavailable in the delivery environment."
+}

@@ -1,0 +1,97 @@
+text,label
+I was charged twice for my subscription,billing
+Please refund the incorrect payment,billing
+My invoice includes an unexpected fee,billing
+Why did my monthly price increase,billing
+How can I update my credit card,billing
+The payment was declined by your system,billing
+I need a receipt for the last purchase,billing
+Cancel my recurring subscription payment,billing
+The discount code was not applied to my bill,billing
+I paid but the invoice is still unpaid,billing
+Please explain the tax on my invoice,billing
+The refund has not reached my bank,billing
+My billing address needs to be changed,billing
+I want to dispute this charge,billing
+The subscription renewal charged the wrong amount,billing
+Can I pay the invoice by bank transfer,billing
+I need to change my payment method,billing
+My card was charged after cancellation,billing
+Please send a copy of my billing statement,billing
+The checkout payment failed,billing
+I need a prorated refund for unused service,billing
+Your invoice has the wrong company name,billing
+My account shows an overdue balance,billing
+Remove the extra service charge from my bill,billing
+My annual subscription was billed monthly,billing
+The transaction appears twice on my bank statement,billing
+I cannot download the payment receipt,billing
+How do I stop automatic billing,billing
+I have a question about my outstanding invoice,billing
+The currency on my bill is incorrect,billing
+My refund amount is smaller than expected,billing
+The charged total differs from the advertised price,billing
+The app crashes every time I open it,technical_issue
+I cannot log in to my account,technical_issue
+The website displays a server error,technical_issue
+My password reset link does not work,technical_issue
+The file upload fails with an error,technical_issue
+The screen freezes when I click save,technical_issue
+I cannot connect to the server,technical_issue
+The software installation keeps failing,technical_issue
+The dashboard will not load,technical_issue
+I am getting a blank screen,technical_issue
+The mobile app stops responding,technical_issue
+The API returns error code 500,technical_issue
+My data is not syncing between devices,technical_issue
+Notifications are not working on my phone,technical_issue
+I see a connection timeout error,technical_issue
+The export button does nothing,technical_issue
+The browser reports a certificate error,technical_issue
+The app cannot access the camera,technical_issue
+Search results are not loading,technical_issue
+The attachment download is broken,technical_issue
+The verification code never arrives,technical_issue
+After the update the application keeps crashing,technical_issue
+The video playback is stuck,technical_issue
+My device cannot pair with the app,technical_issue
+The integration stopped syncing records,technical_issue
+I get an access denied error when signing in,technical_issue
+The page is stuck in a loading loop,technical_issue
+My session disconnects every minute,technical_issue
+The settings fail to save,technical_issue
+The form submit button is broken,technical_issue
+The software shows a database connection error,technical_issue
+I forgot my password and cannot reset it,technical_issue
+What are your customer support opening hours,general_inquiry
+Where can I find your product documentation,general_inquiry
+Can you tell me about the available plans,general_inquiry
+Do you offer a free trial,general_inquiry
+Which countries is your service available in,general_inquiry
+How can I contact your sales team,general_inquiry
+Where is your company located,general_inquiry
+What features are included in the basic plan,general_inquiry
+Do you provide training for new users,general_inquiry
+Is there a user guide for beginners,general_inquiry
+Can I schedule a product demonstration,general_inquiry
+What is your cancellation policy,general_inquiry
+Do you support multiple languages,general_inquiry
+Where can I read your privacy policy,general_inquiry
+How long does onboarding take,general_inquiry
+Can students use your service,general_inquiry
+Do you have a partner program,general_inquiry
+What is the difference between your plans,general_inquiry
+Is the product suitable for small businesses,general_inquiry
+Can I request a new feature,general_inquiry
+Where can I find your terms of service,general_inquiry
+Do you offer enterprise plans,general_inquiry
+How do I get started with your product,general_inquiry
+Can you share details about your service,general_inquiry
+Is customer support available on weekends,general_inquiry
+Do you have a newsletter,general_inquiry
+What are the minimum system requirements,general_inquiry
+Where can I view the product roadmap,general_inquiry
+Who can I speak to about a partnership,general_inquiry
+Is there a tutorial for new customers,general_inquiry
+What is your policy for account closure,general_inquiry
+Can you send a product brochure,general_inquiry
